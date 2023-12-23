@@ -247,10 +247,10 @@ int main() {
 
 
 <font size=5>参考&致谢</font>
-[1] H.Cormen T ,E.Leiserson C ,L.Rivest R , et al.算法导论(原书第3版)[J].计算机教育,2013(12):18.DOI:10.16512/j.cnki.jsjjy.2013.12.029.
-[2] https://github.com/jeekzhang/Awesome-Fudan
-[3] https://blog.csdn.net/sxj731533730/article/details/118248395
-[4] https://blog.csdn.net/qq_45769678/article/details/118711856
-[5] https://aistudio.baidu.com
+[1] H.Cormen T ,E.Leiserson C ,L.Rivest R , et al.算法导论(原书第3版)[J].计算机教育,2013(12):18.DOI:10.16512/j.cnki.jsjjy.2013.12.029.  
+[2] https://github.com/jeekzhang/Awesome-Fudan  
+[3] https://blog.csdn.net/sxj731533730/article/details/118248395  
+[4] https://blog.csdn.net/qq_45769678/article/details/118711856  
+[5] https://aistudio.baidu.com  
 
 </font>
